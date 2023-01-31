@@ -60,4 +60,4 @@ This is a web based application developed for .......
 ## Tech Stack
 - Microsoft Azure
 - HTML
-- Java script
+- CSS
