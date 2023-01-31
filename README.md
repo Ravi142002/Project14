@@ -6,7 +6,7 @@ This is a web based application developed for .......
 
 
 *Project Link* -https://white-coast-0279ac000.2.azurestaticapps.net/
-*Project Demo Video Link* -
+*Project Demo Video Link* -https://youtu.be/Pt_37sdHPfI
 
 ## Features and Functionalities
 
